@@ -63,7 +63,7 @@ Abrir en navegador: http://localhost:8000
 
 - **Clientes:** Contiene los datos de los usuarios registrados, incluyendo nombre, email, contraseña y estado de la cuenta.
 
-- **Categorias:** Define las categorías de productos para organizar el catálogo (por ejemplo, pizzas, bebidas, postres).
+- **Categorias:** Define las categorías de productos para organizar el catálogo (por ejemplo, cono, copa, vaso).
 
 - **Productos:** Almacena los productos disponibles para la venta, con información como nombre, precio base, categoría y si es personalizable.
 
