@@ -29,7 +29,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
 ### 1. Clonar el repositorio
 
-git clone https://github.com/tuusuario/sistema-academico.git
+git clone https://github.com/Ferchissss/heladeria.git
 
 cd heladeria
 
